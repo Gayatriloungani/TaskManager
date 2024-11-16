@@ -4,4 +4,4 @@ export const notify = (message, type) => {
     toast[type](message);
 }
 
-export const API_URL = 'https://task-manager-k9f40cmwt-gayatri-lounganis-projects.vercel.app';
+export const API_URL = 'https://task-manager-api-delta.vercel.app/';
